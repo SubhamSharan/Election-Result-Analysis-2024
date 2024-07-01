@@ -31,7 +31,7 @@ To reproduce this analysis:
 4. Run the main analysis script: `python src/main_analysis.py`
 
 ## Data Sources
-The data used in this analysis was scraped from official state election websites and the Election Commission of India's portal. 
+The data used in this analysis was scraped from official state election websites and the Election Commission of India's portal(https://results.eci.gov.in/PcResultGenJune2024/index.htm). 
 
 ## Tools Used
 - Python 3.8+
