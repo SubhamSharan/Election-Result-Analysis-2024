@@ -35,7 +35,7 @@ The data used in this analysis was scraped from official state election websites
 
 ## Tools Used
 - Python 3.8+
-- Beautiful Soup and Requests for web scraping
+- Selenium for web scraping
 - Pandas for data manipulation
 - Matplotlib and Seaborn for visualizations
 
