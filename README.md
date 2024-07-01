@@ -42,9 +42,6 @@ The data used in this analysis was scraped from official state election websites
 ## Contributors
 -Subham Sharan
 
-## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
 ## Acknowledgments
 - Election Commission of India and state election portals for providing the raw data
 
